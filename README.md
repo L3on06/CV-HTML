@@ -1,3 +1,3 @@
-# Leon Shabani - Projekti i pare  
+# Leon Shabani - Projekti i pare ne HTML
 
-### Bootcamp i pest
+### Student i Bootcampit te pest
